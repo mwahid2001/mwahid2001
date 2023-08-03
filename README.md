@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [@mwahid2001](https://www.linkedin.com/in/muhamedwahid/)
 - 👀 I’m interested in Machine Learning and Web-Development
-- 🌱 I’m currently learning Deep learning in EHR and clinical decision support systems (CDSS)
+- 🌱 I’m currently learning Deep learning in EHR and Clinical Decision Support Systems (CDSS)
 - 💞️ I’m looking to collaborate on developing a machine learning based services to improve Healthcare and patients experience!
 
 <!---
